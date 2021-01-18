@@ -168,7 +168,7 @@ def main():
             
          
   
-   	#Step 3 - Pick a layer to enhance our image
+   	#Step 3 - Pick a layer to enhance our image (preferrably a deep one)
     layer = 'mixed4d_3x3_bottleneck_pre_relu'
     channel = 139 # picking some feature channel to visualize
     
